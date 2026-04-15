@@ -36,7 +36,7 @@ The installer script automatically installs dependencies, but you can also insta
 
 ```bash
 cd ~
-git https://github.com/Dogo2009yt/terminalCustomSplash.git
+git clone https://github.com/Dogo2009yt/terminalCustomSplash.git
 cd terminalCustomSplash
 ```
 
