@@ -1,0 +1,4 @@
+#Write one splash for line!
+Hola!
+Ciao!
+Welcome!
