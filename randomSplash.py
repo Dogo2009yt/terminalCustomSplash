@@ -10,7 +10,9 @@ def readData():
 
 def findSplash(data):
     for i in data:
-        if i[0] == "#":
+        if i.strip() == "":
+            data.remove(i)
+        if i.startswith("#"):
             data.remove(i)
     return data
 
