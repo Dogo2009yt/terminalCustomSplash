@@ -12,7 +12,6 @@ def findSplash(data):
     for i in data:
         if i[0] == "#":
             data.remove(i)
-            break
     return data
 
 def choiceSplash(splashes):
